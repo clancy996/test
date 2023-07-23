@@ -1,8 +1,9 @@
 ï»¿#include <iostream>
+#include "ArrayTest1.h"
 using namespace std;
 int main()
 {
-	   cout << "ÖÕÓÚºÃÁË£¡ycy" << endl;
+	cout << "ï¿½ï¿½ï¿½Úºï¿½ï¿½Ë£ï¿½ycy" << endl;
     cout << "Hello, world!" << endl;
     return 0;
 }
