@@ -30,5 +30,23 @@
     <ClCompile Include="test3.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="7.26test4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test.6.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test7.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test8.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="StudentSys.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
